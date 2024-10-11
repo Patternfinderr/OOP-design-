@@ -1,0 +1,11 @@
+
+
+designsession
+
+.DS_Store
+
+__pycache__/
+
+re.py
+
+re_iterate.py
